@@ -26,6 +26,10 @@ icon: bookmark
 
     CSS3 生成器
 
+- [tiny png](https://tinypng.com/)
+
+    用于压缩 png 或 jpg 的在线工具
+
 * [图床 https://sm.ms/](https://sm.ms/)
 
     有 API 可用。
@@ -37,6 +41,10 @@ icon: bookmark
 ## 编程语言
 
 ### JavaScript
+
+* [JavaScript 标准参考教程（alpha） -阮一峰](http://javascript.ruanyifeng.com/)
+
+* [JavaScript Promise迷你书 -azu](http://liubin.org/promises-book/)
 
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
@@ -103,6 +111,10 @@ icon: bookmark
 * [Thinking in React](http://facebook.github.io/react/docs/thinking-in-react.html)
 
 ### AngularJS
+
+- [学习AngularJS 1.x -Harry<harry@andtoo.net>](https://hairui219.gitbooks.io/learning_angular/content/zh/index.html)
+
+    本书是作者 [Harry](https://github.com/hairui219) 在学习和应用AngularJS 1.x 的过程中的资料梳理。希望能对大家学习AngularJS有一定帮助……
 
 * [AngularJS api 官网](https://docs.angularjs.org/api)
 
