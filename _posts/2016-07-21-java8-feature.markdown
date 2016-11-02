@@ -2,8 +2,8 @@
 layout: post
 title:  "Java8 新特性"
 date:   2016-07-21 09:30
-categories: coding
-tags: coding
+categories: develop
+tags: java
 excerpt: Android N版本正式支持Java8特性，主要包括默认接口方法，Lambda表达式，重复注解和方法引用等特性。下面主要介绍这4个特性以及运行环境依赖。   
 ---
 

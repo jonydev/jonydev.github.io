@@ -2,7 +2,7 @@
 layout: post
 title:  "React基本概念"
 date:   2016-11-02 21:29
-categories: coding
+categories: develop
 tags: react
 excerpt: 本文是 React 核心开发者、有 React API 终结者之称的 Sebastian Markbåge 撰写，阐述了他设计 React 的初衷。阅读此文，你能站在更高的高度思考 React 的过去、现在和未来。原文地址：https://github.com/reactjs/react-basic
 ---
