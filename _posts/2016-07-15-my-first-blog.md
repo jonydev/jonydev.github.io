@@ -3,16 +3,9 @@ layout: post
 title:  "为什么写博客"
 date:   2016-07-15 02:15:03
 categories: life
-tags: 
+tags: life
+excerpt: 就像所有程序员的第一个程序都是hello world一样，几乎所有人博客的第一篇文章都是“为什么写博客”。 
 ---
-
-
-* content
-{:toc}
-
-就像所有程序员的第一个程序都是hello world一样，几乎所有人博客的第一篇文章都是“为什么写博客”。    
-
-
 
 
 
