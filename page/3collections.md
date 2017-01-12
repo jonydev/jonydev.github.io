@@ -8,27 +8,16 @@ icon: bookmark
 * content
 {:toc}
 
+
+## IOS 开发
+### StoryBoard 讲解
+* [iOS 9 Storyboard 教程(一上)](http://www.jianshu.com/p/aaa4b89dbba1)
+* [iOS 9 Storyboard 教程(一下)](http://www.jianshu.com/p/6dca44ddc6fd)
+* [iOS 9 Storyboard 教程(二上)](http://www.jianshu.com/p/0ec8d6314791)
+* [iOS 9 Storyboard 教程(二下)](http://www.jianshu.com/p/df8ab9c872ec)
+
+
 ## 工具
-
-* [box-shadow generator](http://www.cssmatic.com/box-shadow)
-
-    生成 box-shadow 的工具。
-
-* [gradient-generator](http://www.cssmatic.com/gradient-generator)
-
-    渐变生成器。
-
-* [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
-
-    也是渐变生成器
-
-* [CSS Generators -CSSREFLEX](http://www.cssreflex.com/css-generators/)
-
-    CSS3 生成器
-
-- [tiny png](https://tinypng.com/)
-
-    用于压缩 png 或 jpg 的在线工具
 
 * [图床 https://sm.ms/](https://sm.ms/)
 
@@ -93,16 +82,6 @@ icon: bookmark
 * [Webpack 入门指迷 -题叶](https://segmentfault.com/a/1190000002551952)
 
 * [https://webpack.github.io/ Webpack 官网](https://webpack.github.io/)
-
-
-### Vue
-
-* [awesome-vue](https://github.com/vuejs/awesome-vue)
-* [Vue.js 和 Webpack（一） -Randy Lu](http://djyde.github.io/2015/08/29/vuejs-and-webpack-1/)
-* [Vue.js 和 Webpack（二） -Randy Lu](http://djyde.github.io/2015/08/30/vuejs-and-webpack-2/)
-* [Vue.js 和 Webpack（三） -Randy Lu](http://djyde.github.io/2015/08/31/vuejs-and-webpack-3/)
-* [Vuejs 1.0 中文系列视频教程 -Laravist](https://laravist.com/series/vue-js-1-0-in-action-series)
-* [Vuejs-QQ群 相关资料](https://github.com/jsfront/src/blob/master/vuejs.md) 来自豪情
 
 
 ### React
