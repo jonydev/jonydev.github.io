@@ -9,14 +9,6 @@ icon: bookmark
 {:toc}
 
 
-## IOS 开发
-
-### StoryBoard 讲解
-
-* [iOS 9 Storyboard 教程(一上)](http://www.jianshu.com/p/aaa4b89dbba1)
-* [iOS 9 Storyboard 教程(一下)](http://www.jianshu.com/p/6dca44ddc6fd)
-* [iOS 9 Storyboard 教程(二上)](http://www.jianshu.com/p/0ec8d6314791)
-* [iOS 9 Storyboard 教程(二下)](http://www.jianshu.com/p/df8ab9c872ec)
 
 
 ## 工具
@@ -30,6 +22,16 @@ icon: bookmark
 * [Unix 时间戳 Unix timestamp](http://tool.chinaz.com/Tools/unixtime.aspx)
 
 ## 编程语言
+
+
+### IOS 开发
+
+##### StoryBoard 讲解
+
+* [iOS 9 Storyboard 教程(一上)](http://www.jianshu.com/p/aaa4b89dbba1)
+* [iOS 9 Storyboard 教程(一下)](http://www.jianshu.com/p/6dca44ddc6fd)
+* [iOS 9 Storyboard 教程(二上)](http://www.jianshu.com/p/0ec8d6314791)
+* [iOS 9 Storyboard 教程(二下)](http://www.jianshu.com/p/df8ab9c872ec)
 
 ### JavaScript
 
